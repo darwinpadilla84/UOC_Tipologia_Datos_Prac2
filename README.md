@@ -4,13 +4,12 @@ Citylines recopila datos sobre las líneas de transporte de todo el mundo, inclu
 # Autor
 Darwin Medardo Padilla Silva, darwinpadilla84@gmail.com
 
-# Acerca de este software
+# Acerca de esta práctica
 Esta entrega es parte de la Práctica 2 de la asignatura: "Tipologia y ciclo de vida de los datos" de UOC.
 
 # Asignatura: Tipologia y ciclo de vida de los datos.
-
-# Master de Data Science.
-# Universitat Oberta of Catalunya.
+Master de Data Science.
+Universitat Oberta of Catalunya.
 
 # Dataset
 Puede descargar el dataset en la siguiente dirección:
