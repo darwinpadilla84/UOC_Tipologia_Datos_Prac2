@@ -1,0 +1,1344 @@
+"","line_id","line_name","city_id"
+"1",43,"Línea 2",4
+"2",75,"Línea 3 Metro de Caracas",34
+"3",107,"Línea 1",126
+"4",604,"La navette",74
+"5",61,"Línea 1 (Tramo 1A)",66
+"6",1471,"Tokaido Shinkansen",91
+"7",5,"A",1
+"8",168,"Línea 1",261
+"9",219,"14",110
+"10",45,"Línea 4",4
+"11",40,"Línea 4A",4
+"12",46,"Línea 5",4
+"13",60,"Línea 6",4
+"14",70,"MetroTren Nos",4
+"15",223,"12",110
+"16",227,"M1",79
+"17",217,"Ramal San Felipe - Putaendo",4
+"18",225,"M5",79
+"19",141,"Troncal C - Suba",21
+"20",610,"22A",118
+"21",42,"Línea 1",4
+"22",62,"Línea 2 (Tramo 1A)",66
+"23",72,"FFCC Llano del Maipo",4
+"24",73,"FFCC Yungay-Barrancas",4
+"25",221,"FFCC Red Sur",4
+"26",200,"FFCC Santiago - Valparaiso",4
+"27",158,"FFCC de Circunvalación",4
+"28",133,"Jinshan Line",107
+"29",134,"Maglev",107
+"30",147,"Route 71 Yan'an eBRT",107
+"31",148,"Songjiang T1",107
+"32",149,"Songjiang T2",107
+"33",150,"Zhangjiang Tram",107
+"34",6,"B",1
+"35",7,"C",1
+"36",8,"D",1
+"37",10,"H",1
+"38",170,"Tren interurbano México - Toluca",78
+"39",11,"Premetro",1
+"40",64,"Línea 4",66
+"41",65,"Línea 5",66
+"42",66,"Línea 6",66
+"43",154,"U3",118
+"44",155,"U4",118
+"45",156,"U6",118
+"46",119,"Line 1",107
+"47",120,"Line 2",107
+"48",121,"Line 3",107
+"49",122,"Line 4",107
+"50",123,"Line 6",107
+"51",124,"Line 5",107
+"52",125,"Line 7",107
+"53",126,"Line 8",107
+"54",127,"Line 9",107
+"55",129,"Line 11",107
+"56",130,"Line 12",107
+"57",131,"Line 13",107
+"58",135,"Line 17",107
+"59",136,"Line 18",107
+"60",138,"Line 15",107
+"61",213,"Troncal D - Calle 80",21
+"62",226,"S9",79
+"63",222,"Premetro Lines",110
+"64",145,"19",110
+"65",220,"10",110
+"66",173,"Line 1",15
+"67",174,"Line 2",15
+"68",175,"Line 4",15
+"69",176,"Line 5",15
+"70",177,"Line 6",15
+"71",179,"Line 8",15
+"72",180,"Line 9",15
+"73",181,"Line 10",15
+"74",182,"Line 13",15
+"75",183,"Line 14",15
+"76",187,"Changping Line",15
+"77",188,"Fangshan Line",15
+"78",59,"Línea 3",4
+"79",191,"Yizhuang Line",15
+"80",1472,"Sanyo Shinkansen",91
+"81",279,"Expresso Turístico • Luz-Mogi das Cruzes (CPTM)",106
+"82",1598,"Milngavie Branch",48
+"83",192,"Batong Line",15
+"84",77,"Línea 1",78
+"85",229,"M3",79
+"86",95,"1",71
+"87",96,"2",71
+"88",97,"3",71
+"89",98,"4",71
+"90",99,"5",71
+"91",100,"6",71
+"92",101,"7",71
+"93",102,"8",71
+"94",104,"10",71
+"95",105,"11",71
+"96",110,"12",71
+"97",83,"L1",14
+"98",85,"L3",14
+"99",89,"L7",14
+"100",90,"L8",14
+"101",91,"L9",14
+"102",92,"L10",14
+"103",93,"L11",14
+"104",94,"L12",14
+"105",228,"M2",79
+"106",56,"Línea A",78
+"107",280,"Expresso Turístico • Luz-Paranapiacaba (CPTM)",106
+"108",57,"Línea B",78
+"109",48,"Línea 2",78
+"110",52,"Línea 6",78
+"111",49,"Línea 3",78
+"112",50,"Línea 4",78
+"113",54,"Línea 8",78
+"114",58,"Línea 12",78
+"115",55,"Línea 9",78
+"116",53,"Línea 7",78
+"117",245,"S4",79
+"118",193,"BRT 1",15
+"119",194,"BRT 2",15
+"120",250,"Roma-Lido",103
+"121",111,"Tren Ligero",78
+"122",165,"Línea 7",78
+"123",198,"Yanfang Line",15
+"124",199,"Daxing Line",15
+"125",118,"Waterloo & City Line",69
+"126",115,"Northern Line",69
+"127",117,"Circle Line - Circle via Euston, Victoria, Tower Hill & Hammersmith",69
+"128",76,"Tren Suburbano",78
+"129",605,"Ferry boat",74
+"130",82,"Línea 6",78
+"131",333,"Asakusa Line",114
+"132",81,"Línea 5",78
+"133",80,"Línea 4",78
+"134",79,"Línea 3",78
+"135",78,"Línea 2",78
+"136",257,"Linea 4",116
+"137",237,"MC",103
+"138",251,"Roma-Viterbo",103
+"139",307,"L3",258
+"140",252,"M1",87
+"141",253,"M6",87
+"142",195,"BRT 3",15
+"143",196,"BRT 4",15
+"144",189,"Line S2",15
+"145",309,"Antigua línea a Plencia",258
+"146",311,"Canada Line",249
+"147",312,"Expo Line",249
+"148",116,"Central Line - Epping to West Ruislip & Ealing Broadway via Holborn",69
+"149",321,"C-1 Casetas - Miraflores",264
+"150",248,"MXP",79
+"151",336,"Oedo Line",114
+"152",335,"Shinjuku Line",114
+"153",330,"Hanzomon Line",114
+"154",338,"113",99
+"155",9,"E",1
+"156",47,"Línea 1",78
+"157",293,"U4",19
+"158",238,"MA",103
+"159",246,"S2",79
+"160",247,"S3",79
+"161",230,"M4",79
+"162",254,"Linea 1",116
+"163",260,"M1",262
+"164",294,"U5",19
+"165",295,"U6",19
+"166",292,"U3",19
+"167",1599,"West Coast Mainline",48
+"168",1473,"Eizan Main Line",91
+"169",300,"East Coast Mainline",45
+"170",304,"Mariatroster Bahn",263
+"171",308,"A",258
+"172",1474,"Kurama Line",91
+"173",261,"Linha 1 • Azul (CMSP)",106
+"174",313,"Millennium Line",249
+"175",352,"M 1",95
+"176",281,"Trem dos Ingleses (ABPF)",106
+"177",274,"Linha 17 • Ouro (ViaMobilidade)",106
+"178",346,"Ligne 1",266
+"179",267,"Linha 7 • Rubi (CPTM)",106
+"180",263,"Linha 3 • Vermelha (CMSP)",106
+"181",271,"Linha 11 • Coral (CPTM)",106
+"182",276,"Linha 18 • Bronze (VemABC)",106
+"183",351,"Ligne 6",266
+"184",269,"Linha 9 • Esmeralda (CPTM)",106
+"185",265,"Linha 15 • Prata (CMSP)",106
+"186",290,"U1",19
+"187",1475,"Main Line",91
+"188",291,"U2",19
+"189",243,"R16",79
+"190",322,"Métro a",266
+"191",347,"Ligne 2",266
+"192",324,"Ginza Line",114
+"193",331,"Namboku Line",114
+"194",327,"Tozai Line",114
+"195",341,"Orange Line",252
+"196",339,"Green Line",252
+"197",348,"Ligne 3",266
+"198",345,"3",267
+"199",367,"T 1",95
+"200",375,"T 7",95
+"201",365,"M 13",95
+"202",349,"Ligne 4",266
+"203",350,"Ligne 5",266
+"204",356,"M 4",95
+"205",357,"M 5",95
+"206",366,"M 14",95
+"207",362,"M 10",95
+"208",363,"M 11",95
+"209",364,"M 12",95
+"210",374,"T 8",95
+"211",377,"RER B",95
+"212",373,"T 6",95
+"213",381,"H",95
+"214",1476,"Saito Line",91
+"215",353,"M 2",95
+"216",370,"T 3b",95
+"217",372,"T 5",95
+"218",354,"M 3",95
+"219",1477,"Namboku Line",91
+"220",355,"M 3bis",95
+"221",359,"M 7bis",95
+"222",376,"RER A",95
+"223",378,"RER C",95
+"224",379,"RER D",95
+"225",323,"Métro b",266
+"226",383,"K",95
+"227",384,"L",95
+"228",385,"N",95
+"229",382,"J",95
+"230",388,"U",95
+"231",387,"R",95
+"232",371,"T 4",95
+"233",380,"RER E",95
+"234",287,"Linha B • Diadema-Berrini (Metra)",106
+"235",1478,"Seishin-Yamate Line",91
+"236",1479,"Kaigan Line",91
+"237",1600,"East Coast Mainline",48
+"238",334,"Mita Line",114
+"239",328,"Chiyoda Line",114
+"240",325,"Marunouchi Line",114
+"241",329,"Yurakucho Line",114
+"242",1480,"Kobe Kosoku Line",91
+"243",646,"Gotanda Line",114
+"244",241,"S1",79
+"245",249,"S8",79
+"246",143,"Victoria Line",69
+"247",264,"Linha 5 • Lilás (ViaMobilidade)",106
+"248",255,"Linea 2",116
+"249",256,"Linea 3",116
+"250",162,"Piccadilly Line",69
+"251",258,"Linea 5",116
+"252",259,"Linea 6",116
+"253",1481,"Kobe Kosoku Line",91
+"254",283,"Trem de Guararema (ABPF)",106
+"255",266,"Linha 4 • Amarela (ViaQuatro)",106
+"256",262,"Linha 2 • Verde (CMSP)",106
+"257",272,"Linha 12 • Safira (CPTM)",106
+"258",288,"Linha C • Guarulhos-Tucuruvi (EMTU)",106
+"259",203,"Tramlink",69
+"260",167,"Emirates Airline",69
+"261",209,"Elizabeth Line",69
+"262",282,"Trem dos Imigrantes (ABPF)",106
+"263",239,"MB",103
+"264",244,"S5",79
+"265",240,"R31",79
+"266",316,"Ligne 1",265
+"267",277,"Linha 13 • Jade (CPTM)",106
+"268",317,"Ligne 2",265
+"269",296,"U7",19
+"270",297,"U8",19
+"271",298,"U9",19
+"272",275,"Linha 6 • Laranja (MoveSP)",106
+"273",270,"Linha 10 • Turquesa (CPTM)",106
+"274",242,"Passante",79
+"275",299,"U55",19
+"276",305,"Linie 1",263
+"277",306,"1",27
+"278",310,"L1",258
+"279",319,"Ligne 4",265
+"280",606,"Projet ligne 6",265
+"281",315,"S1",51
+"282",318,"Ligne 3",265
+"283",160,"DLR",69
+"284",343,"Yellow Line",252
+"285",342,"Silver Line",252
+"286",289,"Linha D • Itapevi-Butantã (EMTU)",106
+"287",208,"West Midlands Trains/LNWR",69
+"288",163,"Thameslink",69
+"289",172,"Southern",69
+"290",171,"Southeastern",69
+"291",144,"South Western",69
+"292",214,"Greater Anglia",69
+"293",164,"GWR",69
+"294",206,"Freight Rail",69
+"295",216,"Chiltern",69
+"296",211,"C2C",69
+"297",140,"West London Line - Clapham Junction to Willesden Junction via Olympia",69
+"298",207,"GOBLIN - Gospel Oak to Barking via Walthminstow",69
+"299",161,"North London Line - Richmond to Stratford via Willesden and Camden",69
+"300",151,"South London Line - Clapham Junction to Canada Water via Brixton",69
+"301",210,"Watford DC - Euston to Watford Junction via Harrow",69
+"302",142,"Bakerloo Line - Harrow and Wealdstone to Elephant and Castle via Paddington",69
+"303",146,"Jubilee Line - Stanmore to Stratford via Westminster & Waterloo",69
+"304",205,"Metropolitan Line -",69
+"305",1482,"Sanyo Electric Railway Main Line",91
+"306",391,"T 11",95
+"307",451,"Rinkai Line",114
+"308",392,"T 12",95
+"309",393,"T 13",95
+"310",386,"P",95
+"311",398,"M 18",95
+"312",399,"Ancien M 14",95
+"313",405,"Ancien M 2sud",95
+"314",1483,"Aboshi Line",91
+"315",390,"T 10",95
+"316",400,"T Zen 1",95
+"317",401,"T Zen 2",95
+"318",402,"T Zen 3",95
+"319",403,"T Zen 4",95
+"320",406,"Ancien M 2nord",95
+"321",460,"Ancienne ligne A Nord-Sud",95
+"322",445,"New Transit Yurikamome",114
+"323",408,"Voguéo",95
+"324",409,"Tuileries-Suresnes",95
+"325",410,"Charenton-Auteuil",95
+"326",411,"Austerlitz-Auteuil",95
+"327",412,"Le Louvre-Ablon",95
+"328",414,"STCRP",95
+"329",395,"M 15",95
+"330",453,"Línea 7",4
+"331",612,"A",23
+"332",1601,"Whifflet Branch",48
+"333",407,"Funiculaire de Monmartre",95
+"334",449,"Línea 3",126
+"335",450,"Línea 1",126
+"336",448,"Línea 2",126
+"337",1485,"Rokko Island Line",91
+"338",613,"B",23
+"339",404,"T Zen 5",95
+"340",459,"Ancienne ligne B Nord-Sud",95
+"341",461,"Azul",67
+"342",458,"Chuo Main Line",114
+"343",466,"CDGVal 2",95
+"344",462,"Vermelha",67
+"345",463,"Verde",67
+"346",464,"Amarela",67
+"347",394,"Orlyval",95
+"348",465,"CDGVal 1",95
+"349",418,"Keihin-Tohoku Line",114
+"350",419,"Sobu Main Line",114
+"351",607,"Projet ligne 5",265
+"352",1484,"Port Island Line",91
+"353",457,"Takasaki Line",114
+"354",456,"Tohoku Main Line",114
+"355",417,"Yamanote Line",114
+"356",425,"Inokashira Line",114
+"357",424,"Keio Line",114
+"358",427,"Narita Sky Access",114
+"359",426,"Keisei Main Line",114
+"360",423,"Keikyu Main Line",114
+"361",428,"Odawara Line",114
+"362",429,"Tama Line",114
+"363",430,"Ikebukuro Line",114
+"364",431,"Shinjuku Line",114
+"365",433,"Tamagawa Line",114
+"366",434,"Tamako Line",114
+"367",432,"Kokubunji Line",114
+"368",436,"Isesaki Line",114
+"369",437,"Nikko Line",114
+"370",438,"Tojo Line",114
+"371",435,"Skytree Line",114
+"372",416,"Tokyo Sakura Tram",114
+"373",439,"Den-en-toshi Line",114
+"374",440,"Ikegami Line",114
+"375",441,"Meguro Line",114
+"376",442,"Oimachi Line",114
+"377",444,"Toyoko Line",114
+"378",443,"Tamagawa Line",114
+"379",1486,"Arima Line",91
+"380",469,"Rossio",67
+"381",468,"Santa Apolónia",67
+"382",470,"CP",67
+"383",472,"Le Bus Direct 1",95
+"384",473,"Le Bus Direct 2",95
+"385",474,"Le Bus Direct 3",95
+"386",475,"Le Bus Direct 4",95
+"387",513,"C3",265
+"388",467,"Cais do Sodré",67
+"389",480,"Troncal A - Caracas",21
+"390",314,"Troncal B - Norte",21
+"391",481,"Troncal E - NQS Central",21
+"392",483,"Troncal G - NQS Sur",21
+"393",484,"Troncal H - Caracas Sur",21
+"394",485,"Troncal J - Eje Ambiental",21
+"395",1487,"Sanda Line",91
+"396",486,"Troncal K - Calle 26",21
+"397",487,"Troncal L - Carrera 10",21
+"398",488,"Troncal M - Carrera 7",21
+"399",1603,"Arashiyama Line",91
+"400",514,"C4",265
+"401",491,"Troncal F - Américas",21
+"402",530,"M4",29
+"403",515,"C5",265
+"404",525,"Green",89
+"405",1488,"Koen-Toshi Line",91
+"406",521,"Tren Turístico (Del Norte)",21
+"407",1489,"Ao Line",91
+"408",476,"Navette",95
+"409",516,"C6",265
+"410",507,"Passeur Erdre",265
+"411",509,"Passeur de Loire",265
+"412",508,"Navibus Loire",265
+"413",510,"Navibus Erdre",265
+"414",511,"C1",265
+"415",512,"C2",265
+"416",517,"C7",265
+"417",518,"C9",265
+"418",519,"Doulon - Gare Maritime",265
+"419",520,"Nord Sud",265
+"420",528,"M2",29
+"421",522,"Otro",21
+"422",523,"Ciudad Bolivar",21
+"423",524,"Yellow",89
+"424",527,"Other National Rail",89
+"425",526,"East Coast Main Line",89
+"426",529,"M1",29
+"427",499,"Hokuso Line",114
+"428",478,"Akabane Line",114
+"429",532,"Hachiko Line",114
+"430",479,"Joban Line",114
+"431",536,"Joetsu Shinkansen",114
+"432",533,"Kawagoe Line",114
+"433",493,"Nambu Line",114
+"434",420,"Saikyo Line",114
+"435",535,"Tohoku Shinkansen",114
+"436",500,"Yokohama Line",114
+"437",477,"Outer Circle",48
+"438",537,"Yokosuka Line",114
+"439",531,"Keio New Line",114
+"440",498,"Kanamachi Line",114
+"441",496,"Oshiage Line",114
+"442",541,"Haijima Line",114
+"443",506,"T 11 express",95
+"444",540,"Toshima Line",114
+"445",539,"Yurakucho Line",114
+"446",497,"Kameido Line",114
+"447",538,"Noda / Urban Park Line",114
+"448",503,"Tengenjibashi Line",114
+"449",505,"Kinuta Line",114
+"450",502,"Shin-Tamagawa Line",114
+"451",573,"T2",74
+"452",617,"Enoshima Electric Railway",114
+"453",563,"Toyo Rapid Railway Line",114
+"454",623,"Minatomirai 21 Line",114
+"455",564,"Blue Line",114
+"456",574,"T3",74
+"457",1490,"Wadamisaki Line",91
+"458",565,"Green Line",114
+"459",549,"Red Line",147
+"460",550,"Blue Line",147
+"461",551,"Green Line",147
+"462",552,"Orange Line",147
+"463",553,"Purple Line",147
+"464",554,"Pink Line",147
+"465",555,"Yellow Line",147
+"466",576,"B",70
+"467",559,"Renfe",268
+"468",577,"C",70
+"469",558,"Topo",268
+"470",578,"D",70
+"471",1491,"Myoken Line",91
+"472",599,"Itapecerica-João Dias-Centro (SPTrans)",106
+"473",575,"A",70
+"474",579,"1",70
+"475",569,"Ferrocarril del Norte",21
+"476",570,"M1",74
+"477",1492,"Nissei Line",91
+"478",571,"M2",74
+"479",572,"T1",74
+"480",581,"3",70
+"481",582,"4",70
+"482",583,"5",70
+"483",586,"Rhonexpress",70
+"484",587,"Rue Terme",70
+"485",588,"Croix-Paquet",70
+"486",589,"Saint-Paul - Fourvière",70
+"487",585,"2 Fourvière",70
+"488",584,"1 Saint-Just",70
+"489",590,"1",267
+"490",591,"6",267
+"491",592,"STB",267
+"492",600,"Ver. José Diniz-Ibirapuera-Centro (SPTrans)",106
+"493",597,"Jd. Ângela-Guarapiranga-Santo Amaro (SPTrans)",106
+"494",602,"Ponte Baixa",106
+"495",601,"Paes de Barros (SPTrans)",106
+"496",593,"Pirituba-Lapa-Centro (SPTrans)",106
+"497",614,"C",23
+"498",596,"Santo Amaro-Nove de Julho-Centro",106
+"499",1500,"Kishigawa Line",91
+"500",595,"Campo Limpo-Rebouças-Centro (SPTrans)",106
+"501",603,"Ponte Orca • Zoo (EMTU)",106
+"502",615,"Bat³",23
+"503",616,"D",23
+"504",547,"Airport Line",114
+"505",594,"Inajar-Rio Branco-Centro (SPTrans)",106
+"506",562,"Itsukaichi Line",114
+"507",620,"Narita Line",114
+"508",561,"Urquiza",1
+"509",566,"Negishi Line",114
+"510",556,"Ome Line",114
+"511",626,"Sagami Line",114
+"512",545,"Sagamihara Line",114
+"513",548,"Brown Line",147
+"514",618,"Enoshima Line",114
+"515",625,"Izumino Line",114
+"516",624,"Sotetsu Main Line",114
+"517",544,"Sayama Line",114
+"518",543,"Seibu-en Line",114
+"519",621,"Shonan Monorail",114
+"520",647,"Roppongi Line",114
+"521",619,"Kodomonokuni Line",114
+"522",622,"Kanazawa Seaside Line",114
+"523",632,"Metro C",99
+"524",1605,"Metrolink",72
+"525",691,"Clifton Hill Lines",77
+"526",644,"San Martín",1
+"527",659,"Tranvía del Este",1
+"528",660,"Tren de la Costa",1
+"529",700,"Dandenong Line",77
+"530",633,"Melipilla",4
+"531",639,"Mitre",1
+"532",645,"Sarmiento",1
+"533",643,"Ligne Horizon",95
+"534",697,"Burnley Lines",77
+"535",1493,"Hokushin Line",91
+"536",1533,"Iga Line",91
+"537",112,"All the lines",14
+"538",629,"Chiba Line",114
+"539",683,"Line 1 Yonge-University",247
+"540",628,"Kurihama Line",114
+"541",686,"51",8
+"542",627,"Zushi Line",114
+"543",699,"Sandringham Line",77
+"544",675,"Ushigome Line",114
+"545",692,"Cross-City Line",77
+"546",662,"Toranomon Line",114
+"547",702,"1",77
+"548",667,"Tsuchihashi Line",114
+"549",680,"Shin-Ohashi Line",114
+"550",687,"Northern Lines",77
+"551",634,"Shinagawa Line",114
+"552",630,"Metro A",99
+"553",652,"Shinanomachi Line",114
+"554",631,"Metro B",99
+"555",653,"Shinjuku Line",114
+"556",669,"Suidobashi Line",114
+"557",656,"Belgrano Norte",1
+"558",658,"Roca",1
+"559",640,"Mita Line",114
+"560",703,"3",77
+"561",636,"Meguro Line",114
+"562",657,"Belgrano Sur",1
+"563",666,"Marunouchi Line",114
+"564",668,"Muromachi Line",114
+"565",677,"Ryogokubashi Line",114
+"566",679,"Ochanomizu Line",114
+"567",673,"Kudan Line",114
+"568",655,"Kasumicho Line",114
+"569",674,"Ichigaya Line",114
+"570",637,"Isaragozaka Line",114
+"571",681,"Izumibashi Line",114
+"572",665,"Kandabashi Line",114
+"573",649,"Horaibashi Line",114
+"574",638,"Kanasugi Line",114
+"575",651,"Aoyama Line",114
+"576",664,"Chiyodabashi Line",114
+"577",672,"Edogawa Line",114
+"578",642,"Fudanotsuji Line",114
+"579",635,"Furukawa Line",114
+"580",654,"Hanzomon Line",114
+"581",670,"Bancho Line",114
+"582",663,"Hatchobori Line",114
+"583",682,"Kachidokibashi Line",114
+"584",648,"Hiroo Line",114
+"585",641,"Hondori Line",114
+"586",671,"Tsunohazu Line",114
+"587",650,"Tameike Line",114
+"588",661,"Tsukiji Line",114
+"589",1604,"Kitano Line",91
+"590",1495,"Kusatsu Line",91
+"591",1602,"via Shotts",48
+"592",1607,"Cathcart Circle",48
+"593",1608,"Newton Branch",48
+"594",1498,"Bantan Line",91
+"595",1496,"Kosei Line",91
+"596",1323,"Osaka Higashi Line",91
+"597",1499,"Maizuru Line",91
+"598",1427,"Wakayama Line",91
+"599",1494,"Kansai Line",91
+"600",1497,"Kisei Line",91
+"601",730,"Island Line",56
+"602",732,"Tsuen Wan Line",56
+"603",734,"Tseung Kwan O Line",56
+"604",710,"19",77
+"605",714,"57",77
+"606",715,"58",77
+"607",716,"59",77
+"608",721,"75",77
+"609",720,"72",77
+"610",719,"70",77
+"611",718,"67",77
+"612",717,"64",77
+"613",704,"3a",77
+"614",705,"5",77
+"615",706,"6",77
+"616",707,"11",77
+"617",708,"12",77
+"618",709,"16",77
+"619",711,"30",77
+"620",712,"35",77
+"621",713,"48",77
+"622",1536,"Línea Verde",64
+"623",1534,"Línea Roja",64
+"624",1543,"Línea Plateada",64
+"625",1538,"Línea Naranja",64
+"626",1541,"Línea Morada",64
+"627",1542,"Línea Celeste",64
+"628",1540,"Línea Café",64
+"629",1539,"Línea Blanca",64
+"630",1537,"Línea Azul",64
+"631",1535,"Línea Amarilla",64
+"632",1544,"Línea Dorada",64
+"633",202,"LNER/East Midlands Trains/Great Northern",69
+"634",1547,"Hankai Line",91
+"635",1548,"Uemachi Line",91
+"636",723,"82",77
+"637",724,"86",77
+"638",725,"96",77
+"639",727,"2 Trillium Line",211
+"640",765,"Blue Line",189
+"641",793,"Inner Circle",48
+"642",302,"Borders Railway",45
+"643",731,"East Rail Line",56
+"644",733,"Kwun Tong Line",56
+"645",736,"Disneyland Resort Line",56
+"646",737,"Airport Express",56
+"647",738,"West Rail Line",56
+"648",743,"Blue",199
+"649",744,"Yellow",199
+"650",1609,"Kakogawa Line",91
+"651",745,"Broadway-7th Avenue Line",206
+"652",1549,"Red Line",236
+"653",1550,"Orange Line",236
+"654",767,"Red Line",189
+"655",1551,"Free Transfer Available Between These Stations:",236
+"656",769,"Purple Line Monorail",236
+"657",768,"Purple Line",189
+"658",760,"Yellow Line Light Rail",236
+"659",779,"Port Klang Line",63
+"660",759,"Teal Line Light Rail",236
+"661",772,"Sri Petaling Line",63
+"662",762,"Lime Line Rapid Bus Corridor",236
+"663",761,"Brown Line Rapid Bus Corridor",236
+"664",764,"Aqua Line InterCounty Train",236
+"665",780,"R",267
+"666",763,"Gold Line InterCounty Train",236
+"667",722,"78",77
+"668",757,"21",70
+"669",758,"22",70
+"670",781,"F",267
+"671",766,"Expo Line",189
+"672",822,"Sunamachi Line",114
+"673",798,"Susaki Line",114
+"674",826,"Narihara Line",114
+"675",811,"Sarue Line",114
+"676",770,"Kelana Jaya Line",63
+"677",771,"Ampang Line",63
+"678",773,"KL Monorail Line",63
+"679",782,"C",267
+"680",774,"Sungai Buloh-Kajang Line",63
+"681",783,"T",267
+"682",784,"J",267
+"683",778,"KLIA Express",63
+"684",777,"KLIA Transit",63
+"685",775,"Seremban Line",63
+"686",787,"A",267
+"687",796,"Line 4 Sheppard",247
+"688",795,"Line 3 Scarborough",247
+"689",794,"Line 2 Bloor-Danforth",247
+"690",827,"Kuramae Line",114
+"691",824,"Komatsugawa Line",114
+"692",823,"Kasaibashi Line",114
+"693",825,"Ishihara Line",114
+"694",821,"Kotobashi Line",114
+"695",804,"Takahashi Line",114
+"696",806,"Mandurah Line",96
+"697",812,"J",231
+"698",819,"Limited",231
+"699",817,"T",231
+"700",813,"K",231
+"701",814,"L",231
+"702",815,"M",231
+"703",816,"N",231
+"704",820,"Baby Bullet",231
+"705",818,"Local",231
+"706",741,"Orange",199
+"707",726,"109",77
+"708",1611,"Ohmi Railway Main Line",91
+"709",1610,"Taga Line",91
+"710",139,"District Line - Upminster to Wimbledon, Richmond, Olympia & Ealing Broadway via Tower Hill",69
+"711",215,"Lea Valley Lines - Liverpool Street to Cheshunt & Chingford via Dalston & Hackney",69
+"712",845,"Line 5 Eglington",247
+"713",878,"Line 1",114
+"714",864,"L2",111
+"715",881,"Tanimachi Line",91
+"716",846,"Lakeshore West Line",247
+"717",863,"M2",111
+"718",848,"Milton Line",247
+"719",851,"Richmond Hill Line",247
+"720",852,"Stouffville Line",247
+"721",847,"Lakeshore East Line",247
+"722",849,"Kitchener Line",247
+"723",850,"Barrie Line",247
+"724",853,"T1",111
+"725",882,"Yotsubashi Line",91
+"726",854,"T2",111
+"727",855,"T3",111
+"728",858,"T6",111
+"729",859,"T7",111
+"730",860,"T8",111
+"731",875,"Garfield Park Line",147
+"732",862,"M1",111
+"733",879,"Line 2",114
+"734",897,"Chichibu Main Line",114
+"735",880,"Midosuji Line",91
+"736",883,"Chuo Line",91
+"737",896,"Isumi Line",114
+"738",884,"Sennichimae Line",91
+"739",893,"Sotobo Line",114
+"740",885,"Sakaisuji Line",91
+"741",886,"Nagahori Tsurumi-ryokuchi Line",91
+"742",887,"Imazatosuji Line",91
+"743",888,"Red Line",152
+"744",889,"Blue Line",152
+"745",890,"Green Line",152
+"746",894,"Togane Line",114
+"747",892,"Uchibo Line",114
+"748",891,"Chihara Line",114
+"749",895,"Kominato Line",114
+"750",899,"Chichibu Line",114
+"751",838,"Omiya Line",114
+"752",900,"1B",27
+"753",829,"Umayabashi Line",114
+"754",902,"5",27
+"755",831,"Ueno Line",114
+"756",903,"6",27
+"757",868,"Totsuka Line",114
+"758",861,"L1",111
+"759",872,"Shimura Line",114
+"760",869,"Sugamo Line",114
+"761",874,"Suginami Line",114
+"762",837,"Senju Line",114
+"763",844,"Otowa Line",114
+"764",843,"Otsuka Line",114
+"765",1586,"Maryhill Branch Line",48
+"766",870,"Kita-Senju Line",114
+"767",866,"Komagome Line",114
+"768",1587,"Springburn Branch Line",48
+"769",833,"Kiriodoshi Line",114
+"770",867,"Ikebukuro Line",114
+"771",871,"Itabashi Line",114
+"772",876,"Asukayama Line",114
+"773",828,"Azumabashi Line",114
+"774",830,"Awajicho Line",114
+"775",834,"Dozaka Line",114
+"776",865,"Gokokuji Line",114
+"777",840,"Hakusan Line",114
+"778",832,"Hongo Line",114
+"779",842,"Tomisaka Line",114
+"780",1552,"30N Wisconsin Avenue Line",252
+"781",340,"Blue Line",252
+"782",920,"97",27
+"783",914,"62",27
+"784",904,"3",27
+"785",922,"U2",82
+"786",1588,"Via Falkirk High",48
+"787",1612,"Yokaichi Line",91
+"788",1589,"Via Falkirk Grahamston",48
+"789",454,"Tokaido Main Line",114
+"790",1591,"North Clyde Line",48
+"791",1592,"Paisley Canal",48
+"792",1594,"Newcraighall",45
+"793",1593,"Argyle Line",48
+"794",1614,"Shigaraki Line",91
+"795",913,"55",27
+"796",911,"44",27
+"797",905,"4",27
+"798",923,"U3",82
+"799",1595,"Queen Street to Stirling",48
+"800",1596,"M3",29
+"801",332,"Fukutoshin Line",114
+"802",841,"Mukojima Line",114
+"803",504,"Naka-Meguro Line",114
+"804",873,"Akabane Line",114
+"805",447,"Setagaya Line",114
+"806",919,"94",27
+"807",915,"81",27
+"808",910,"39",27
+"809",909,"32",27
+"810",906,"7",27
+"811",921,"U1",82
+"812",925,"U5",82
+"813",839,"Yukarigaoka Line",114
+"814",960,"T2",310
+"815",995,"Kawasaki Municipal Streetcar",114
+"816",918,"93",27
+"817",917,"92",27
+"818",912,"51",27
+"819",908,"25",27
+"820",907,"19",27
+"821",924,"U4",82
+"822",961,"T3",310
+"823",927,"U7",82
+"824",928,"U8",82
+"825",926,"U6",82
+"826",929,"S1",82
+"827",981,"T3",14
+"828",935,"S8",82
+"829",976,"Tamagawa Line (streetcar)",114
+"830",934,"S7",82
+"831",933,"S6",82
+"832",1597,"1A",323
+"833",932,"S4",82
+"834",936,"S20",82
+"835",937,"20",82
+"836",938,"17",82
+"837",939,"12",82
+"838",940,"16",82
+"839",941,"27",82
+"840",942,"23",82
+"841",943,"28",82
+"842",944,"21",82
+"843",945,"22",82
+"844",946,"19",82
+"845",947,"18",82
+"846",948,"25",82
+"847",949,"15",82
+"848",964,"Orange Line",152
+"849",953,"A",275
+"850",954,"B",275
+"851",950,"A",307
+"852",956,"A",293
+"853",957,"C",293
+"854",958,"M",310
+"855",966,"A",280
+"856",967,"A",286
+"857",968,"B",286
+"858",969,"C",286
+"859",972,"Grenoble Bastille",286
+"860",1003,"T1",324
+"861",979,"T1",14
+"862",980,"T2",14
+"863",982,"T4",14
+"864",983,"T5",14
+"865",984,"T6",14
+"866",989,"Praça XV–Araribóia",102
+"867",955,"C",275
+"868",987,"Linha 2",102
+"869",988,"Linha 4",102
+"870",951,"Kururi Line",114
+"871",985,"Trem do Corcovado",102
+"872",990,"Linha 1",102
+"873",991,"Linha 2",102
+"874",993,"Bondinho do Pão de Açúcar",102
+"875",557,"Tohoku / Joetsu Shinkansen",114
+"876",994,"Kaigan Electric Railway",114
+"877",998,"C",328
+"878",996,"A",328
+"879",986,"Linha 1",102
+"880",997,"B",328
+"881",999,"D",328
+"882",1000,"E",328
+"883",975,"Musashi Chuo Railway",114
+"884",1001,"F",328
+"885",1005,"T3",324
+"886",974,"Takao Line",114
+"887",1004,"Ouest<>Est",324
+"888",1006,"Linha 1",104
+"889",992,"Linha 3",102
+"890",978,"Narita Railway",114
+"891",952,"New Shuttle",114
+"892",973,"Keishi Line",114
+"893",977,"Shin-Okusawa Line",114
+"894",959,"T1",310
+"895",1007,"Linha 2",104
+"896",797,"Tsukishima Line",114
+"897",415,"Nippori-Toneri Liner",114
+"898",1015,"Ramal Vila Inhomirim",102
+"899",1023,"Downtown Line",108
+"900",1011,"Ramal Japeri",102
+"901",1009,"Ramal Santa Cruz",102
+"902",1019,"North South Line",108
+"903",224,"Eurostar/HS1",69
+"904",1025,"Punggol LRT",108
+"905",1020,"East West Line",108
+"906",1027,"Bukit Panjang LRT",108
+"907",1061,"Airport Line",255
+"908",1026,"Senkang LRT",108
+"909",1021,"Circle Line",108
+"910",1024,"Thomson-East Coast Line",108
+"911",1028,"50",8
+"912",1029,"53",8
+"913",1030,"54",8
+"914",1062,"University Line",255
+"915",1059,"River Line",255
+"916",1057,"Manitoba Line",255
+"917",1058,"Canada Line",255
+"918",1060,"Prairie Line",255
+"919",1052,"S11",79
+"920",1012,"Ramal Belford Roxo",102
+"921",1010,"Ramal Deodoro",102
+"922",1014,"Ramal Guapimirim",102
+"923",1065,"Red Line",148
+"924",1063,"Highway Line",255
+"925",1066,"Blue Line",148
+"926",1018,"L3",111
+"927",1013,"Ramal Saracuna",102
+"928",1022,"North East Line",108
+"929",63,"Línea 3",66
+"930",113,"Línea 1 (Tramo 1B)",66
+"931",114,"Línea 1 (Tramo 2)",66
+"932",152,"U1",118
+"933",153,"U2",118
+"934",128,"Line 10",107
+"935",132,"Line 16",107
+"936",137,"Line 14",107
+"937",169,"Línea 2",261
+"938",178,"Line 7",15
+"939",1064,"Misato Line",114
+"940",1031,"Nanso Railway",114
+"941",1070,"Nagareyama Line",114
+"942",1046,"Owariyabashi Line",114
+"943",1044,"Rokkakubashi Line",114
+"944",1042,"Sugita Line",114
+"945",1045,"Asamacho Line",114
+"946",1033,"Chuo-Ichiba Line",114
+"947",1051,"Chojamachi Line",114
+"948",1043,"Gunmyoji Line",114
+"949",1040,"Hagoromocho Line",114
+"950",1038,"Hanazonobashi Line",114
+"951",1039,"Hinodecho Line",114
+"952",1049,"Hiranuma Line",114
+"953",1047,"Hodogaya Line",114
+"954",1037,"Honcho Line",114
+"955",1035,"Honmoku Line",114
+"956",1036,"Negishi Line",114
+"957",1032,"Namamugi Line",114
+"958",1048,"Idogaya Line",114
+"959",1041,"Isogo Line",114
+"960",1034,"Kanagawa Line",114
+"961",1050,"Kuboyama Line",114
+"962",184,"Line 15",15
+"963",185,"Line 16",15
+"964",186,"Airport Line",15
+"965",103,"9",71
+"966",106,"R",71
+"967",84,"L2",14
+"968",86,"L4",14
+"969",87,"L5",14
+"970",88,"L6",14
+"971",320,"L1 Avenida Academia - Mago de Oz",264
+"972",197,"Western Tram",15
+"973",190,"Line S1",15
+"974",344,"Red Line",252
+"975",546,"Tama Toshi Monorail Line",114
+"976",560,"Línea general",268
+"977",580,"2",70
+"978",534,"Tokaido Shinkansen",114
+"979",422,"Keiyo Line",114
+"980",735,"Tung Chung Line",56
+"981",739,"Ma On Shan Line",56
+"982",740,"South Island Line",56
+"983",742,"Green",199
+"984",785,"M",267
+"985",786,"H",267
+"986",492,"Musashino Line",114
+"987",567,"Tsurumi Line",114
+"988",455,"Utsunomiya Line",114
+"989",965,"Shirahige Line",114
+"990",901,"2",27
+"991",916,"82",27
+"992",930,"S2",82
+"993",931,"S3",82
+"994",962,"T4",310
+"995",542,"Shin-Keisei Line",114
+"996",970,"D",286
+"997",971,"E",286
+"998",856,"T4",111
+"999",857,"T5",111
+"1000",285,"Expresso Tiradentes (SPTrans)",106
+"1001",568,"Daishi Line",114
+"1002",598,"Parelheiros-Rio Bonito-Santo Amaro (SPTrans)",106
+"1003",495,"Tsukuba Express",114
+"1004",268,"Linha 8 • Diamante (CPTM)",106
+"1005",284,"Estrada de Ferro Perus-Pirapora (IFPPC)",106
+"1006",218,"Ramal LLay Llay - Los Andes",4
+"1007",1072,"Bas Chantenay - Hangar à bananes",265
+"1008",1073,"Trentemoult aval - Bas Chantenay",265
+"1009",1074,"Trentemoult aval - Gare maritime",265
+"1010",1076,"TransOeste",102
+"1011",326,"Hibiya Line",114
+"1012",396,"M 16",95
+"1013",397,"M 17",95
+"1014",358,"M 6",95
+"1015",361,"M 9",95
+"1016",360,"M 8",95
+"1017",303,"M 7",95
+"1018",369,"T 3a",95
+"1019",368,"T 2",95
+"1020",389,"T 9",95
+"1021",471,"CDG Express",95
+"1022",446,"Tokyo Monorail Haneda Airport Line",114
+"1023",494,"Saitama Rapid Railway Line",114
+"1024",835,"Minowa Line",114
+"1025",836,"Senzoku Line",114
+"1026",501,"Mizonokuchi Line",114
+"1027",51,"Línea 5",78
+"1028",1002,"G",328
+"1029",278,"Expresso Turístico • Luz-Jundiaí (CPTM)",106
+"1030",286,"Linha A • Corredor ABD (Metra)",106
+"1031",204,"Hammersmith & City Line - Hammersmith to Barking via Kings Cross/St. Pancras",69
+"1032",159,"East London Line - Dalston Junction to New Cross, New Cross Gate, Crystal Palace & West Croydon via Rotherhite",69
+"1033",212,"Romford Shuttle - Upminster to Romford via Emerson Park",69
+"1034",1075,"Parc des Chantiers - Gare maritime - Hangar à bananes - Arbre aux hérons - Trentemoult Roquios",265
+"1035",1077,"TransCarioca",102
+"1036",1078,"TransOlímpica",102
+"1037",1080,"Praça XV–Charitas",102
+"1038",1079,"TransBrasil",102
+"1039",1117,"Joso Line",114
+"1040",1125,"Ryugasaki Line",114
+"1041",1181,"Odawara Electric Railway",114
+"1042",1082,"Praça XV–Paquetá",102
+"1043",1182,"Hakone Tozan Funicular",114
+"1044",1179,"Utsunomiya LRT",114
+"1045",1088,"S6",79
+"1046",1090,"17",110
+"1047",1091,"18",110
+"1048",1133,"Green Line/A",139
+"1049",1089,"13",110
+"1050",1094,"Bushu Railway",114
+"1051",1123,"Choshi Electric Railway Line",114
+"1052",1142,"Fujikyuko Line",114
+"1053",1114,"Honjo Electric Railway",114
+"1054",1115,"Daiyuzan Line",114
+"1055",1124,"Gotemba Line",114
+"1056",1126,"Kashima Line",114
+"1057",1113,"Ruta 8",1
+"1058",1112,"Oeste",1
+"1059",1186,"B",331
+"1060",1103,"Norte",1
+"1061",1111,"La Matanza",1
+"1062",1107,"MetroTren Rancagua",4
+"1063",1108,"Alameda Chillán",4
+"1064",1109,"Línea 8",4
+"1065",1116,"Mito Line",114
+"1066",1187,"Lycée C. Monet <> Place Thiers",331
+"1067",1110,"Línea 9",4
+"1068",1185,"A",331
+"1069",1119,"Ryomo Line",114
+"1070",1141,"Jomo Line",114
+"1071",1175,"Oarai Kashima Line",114
+"1072",1095,"Kujukuri Railway",114
+"1073",1177,"Moka Line",114
+"1074",1139,"Tako Line",114
+"1075",1128,"Orange Line",139
+"1076",1129,"Blue Line",139
+"1077",1081,"Praça XV–Cocotá",102
+"1078",1130,"Red Line",139
+"1079",1132,"Hyannis",139
+"1080",1131,"Mattapan Line",139
+"1081",1140,"Yachimata Line",114
+"1082",1134,"Green Line/B",139
+"1083",1180,"Hakone Tozan Line",114
+"1084",1120,"Kiryu Line",114
+"1085",1138,"Utsunomiya Line",114
+"1086",1121,"Sano Line",114
+"1087",1118,"Ogose Line",114
+"1088",1122,"Koizumi Line",114
+"1089",1188,"Ligne 1",305
+"1090",1178,"Artesanos",126
+"1091",1100,"Juan B. Justo",1
+"1092",1104,"del Bajo",1
+"1093",1184,"Varela",1
+"1094",1105,"Sur",1
+"1095",1102,"San Martín",1
+"1096",1183,"Calchaquí",1
+"1097",1101,"9 de Julio",1
+"1098",1106,"AU 25 de Mayo",1
+"1099",1189,"Ligne 2",305
+"1100",1190,"Ligne 1",317
+"1101",1191,"Ligne 2",317
+"1102",1192,"Ligne 3",317
+"1103",1193,"Tram-train",317
+"1104",1194,"A",314
+"1105",1195,"B",314
+"1106",1196,"Nantes - Clisson",265
+"1107",1197,"Nantes - Châteaubriant",265
+"1108",1198,"1",300
+"1109",1199,"2",300
+"1110",1200,"3",300
+"1111",1092,"11",110
+"1112",1201,"4",300
+"1113",1202,"5",300
+"1114",1227,"2nd Avenue Line",206
+"1115",1203,"Metro",124
+"1116",1136,"Green Line/D",139
+"1117",1217,"6th Avenue Line",206
+"1118",1206,"B",325
+"1119",1207,"A",325
+"1120",1208,"T1",325
+"1121",1209,"T2",325
+"1122",1210,"1",283
+"1123",1211,"2",283
+"1124",1212,"27",110
+"1125",1213,"28",110
+"1126",1214,"29",110
+"1127",1215,"Berrini-Chucri Zaidan",106
+"1128",1219,"3rd Avenue Line",206
+"1129",1222,"FFCC Santiago-San Bernardo",4
+"1130",1220,"FFCC Santiago Oeste",4
+"1131",1256,"7",256
+"1132",1267,"Culver Line",206
+"1133",1237,"Harlem Line",206
+"1134",1230,"Jerome Avenue Line",206
+"1135",1225,"Port Chester Line",206
+"1136",1224,"White Plains Line",206
+"1137",1226,"Harlem River Line",206
+"1138",1232,"Lenox Avenue Line",206
+"1139",1266,"Culver Line",206
+"1140",1240,"M1",327
+"1141",1241,"M2",327
+"1142",1273,"Fulton Street Line",206
+"1143",1243,"T",327
+"1144",1216,"9th Avenue Line",206
+"1145",1233,"Dyre Avenue Line",206
+"1146",1234,"Pelham Line",206
+"1147",1242,"R",327
+"1148",1244,"Tramway Touristique de la Vallée de la Deule",327
+"1149",1245,"T1",291
+"1150",1246,"T2",291
+"1151",1238,"Harlem Division",206
+"1152",1239,"New Haven Line",206
+"1153",1247,"T3",291
+"1154",1235,"Putnam Division",206
+"1155",1236,"Yonkers Branch",206
+"1156",1275,"Franklin Avenue Line",206
+"1157",1258,"9",256
+"1158",1248,"T1",294
+"1159",1249,"T2",294
+"1160",1250,"1",256
+"1161",1251,"2",256
+"1162",1252,"3",256
+"1163",1229,"Flushing Line",206
+"1164",1254,"5",256
+"1165",1253,"4",256
+"1166",1255,"6",256
+"1167",1257,"8",256
+"1168",1221,"FFCC Santiago-Ñuñoa",4
+"1169",1261,"Myrtle Avenue Line",206
+"1170",1265,"West End Line",206
+"1171",1231,"White Plains Road Line",206
+"1172",1259,"Lexington Avenue Line",206
+"1173",1264,"5th Avenue Line",206
+"1174",1260,"Myrtle Avenue Line",206
+"1175",1228,"Astoria Line",206
+"1176",1269,"Fulton Street Line",206
+"1177",1270,"1",318
+"1178",1271,"B",308
+"1179",1272,"A",308
+"1180",1268,"Brighton Line",206
+"1181",1274,"Nanko Port Town Line",91
+"1182",1263,"Archer Avenue Line (BMT)",206
+"1183",1276,"Barón",124
+"1184",1277,"Artillería",124
+"1185",1278,"Cordillera",124
+"1186",1262,"Jamaica Line",206
+"1187",1279,"Grecia",4
+"1188",1280,"Santa Rosa",4
+"1189",1310,"Joto Line",91
+"1190",1281,"Vicuña Mackenna",4
+"1191",1282,"Departamental",4
+"1192",1283,"Las Industrias",4
+"1193",1284,"Pajaritos",4
+"1194",1285,"Las Rejas",4
+"1195",1286,"Anillo Intermedio",4
+"1196",1287,"Camino a Rinconada",4
+"1197",1311,"Far Rockaway Branch",206
+"1198",1288,"Pedro Aguirre Cerda",4
+"1199",1289,"Osaka Loop Line",91
+"1200",1326,"Main Line",206
+"1201",1312,"Rockaway Beach Branch",206
+"1202",1291,"Yamatoji Line",91
+"1203",1293,"Tozai Line",91
+"1204",1295,"Kyoto Line",91
+"1205",1297,"Nara Line",91
+"1206",1298,"Kobe Line",91
+"1207",1313,"Rockaway Line",206
+"1208",1314,"Sea Beach Line",206
+"1209",1302,"4th Avenue Line",206
+"1210",1299,"8th Avenue Line",206
+"1211",1300,"Nassau Street Line",206
+"1212",1301,"Crosstown Line",206
+"1213",1303,"Broadway Line",206
+"1214",1292,"Sakurajima Line",91
+"1215",1304,"Lexington Avenue Line",206
+"1216",1305,"42nd Street Shuttle",206
+"1217",1306,"Eastern Parkway Line",206
+"1218",1307,"New Lots Line",206
+"1219",1315,"Concourse Line",206
+"1220",1308,"Nostrand Avenue Line",206
+"1221",1309,"Canarsie Line",206
+"1222",1316,"Queens Boulevard Line",206
+"1223",1290,"Katamachi Line",91
+"1224",1294,"Hanwa Line",91
+"1225",1317,"6th Avenue Line",206
+"1226",1318,"Archer Avenue Line (IND)",206
+"1227",1296,"Fukuchiyama Line",91
+"1228",1328,"Hempstead Branch",206
+"1229",1320,"PATH",206
+"1230",1329,"West Hempstead Branch",206
+"1231",1321,"2nd Avenue Line",206
+"1232",1324,"Osaka Line",91
+"1233",1325,"Nara Line",91
+"1234",1340,"West Side Branch",206
+"1235",1336,"Main Line",206
+"1236",1331,"Long Beach Branch",206
+"1237",1332,"Port Washington Branch",206
+"1238",1330,"Atlantic Branch",206
+"1239",1333,"Oyster Bay Branch",206
+"1240",1322,"City Subway",206
+"1241",1334,"Port Jefferson Branch",206
+"1242",1335,"Montauk Line",206
+"1243",1337,"North Shore Branch",206
+"1244",1342,"Minami Osaka Line",91
+"1245",1343,"Domyoji Line",91
+"1246",1339,"Main Line",206
+"1247",1338,"Broad Street Branch",206
+"1248",1341,"Kyoto Line",91
+"1249",1344,"Kashihara Line",91
+"1250",1345,"Hudson Line",206
+"1251",1346,"Concepción",124
+"1252",1347,"El Peral",124
+"1253",1349,"Mariposas",124
+"1254",1348,"Reina Victoria",124
+"1255",1350,"Florida",124
+"1256",1351,"Lecheros",124
+"1257",1352,"Espíritu Santo",124
+"1258",1353,"Monjas",124
+"1259",1354,"Villaseca",124
+"1260",1355,"San Agustín",124
+"1261",1356,"Van Buren",124
+"1262",1357,"Paicaví",261
+"1263",1358,"21 de Mayo",261
+"1264",1359,"Colón",261
+"1265",1360,"Nankai Main Line",91
+"1266",1361,"Koya Line",91
+"1267",1362,"Shiomibashi Line",91
+"1268",1363,"Takashinohama Line",91
+"1269",1364,"Airport Line",91
+"1270",1435,"Nakanoshima Line",91
+"1271",1365,"Tanagawa Line",91
+"1272",1366,"Kada Line",91
+"1273",1367,"Wakayamako Line",91
+"1274",1368,"Ikoma Line",91
+"1275",1369,"Namba Line",91
+"1276",1370,"Tenri Line",91
+"1277",1371,"Tawaramoto Line",91
+"1278",1372,"Highland Branch",139
+"1279",1135,"Green Line/C",139
+"1280",1420,"Fairmount Line",139
+"1281",1406,"Nagano Line",91
+"1282",1407,"Gose Line",91
+"1283",1408,"Hagoromo Line",91
+"1284",1409,"Atlantic Avenue Line",139
+"1285",1410,"Main Line",139
+"1286",1411,"Framingham/Worcester Line",139
+"1287",1373,"Green Line",139
+"1288",1412,"Trolebuses",124
+"1289",1413,"Fitchburg Line",139
+"1290",1414,"Main Line",139
+"1291",1421,"Franklin Line",139
+"1292",1426,"Sakurai Line",91
+"1293",1415,"Needham Branch",139
+"1294",1417,"Charles River Branch",139
+"1295",1418,"Stoughton Branch",139
+"1296",1422,"Needham Line",139
+"1297",1423,"Providence/Stoughton Line",139
+"1298",1434,"Oto Line",91
+"1299",1433,"Keihan Main Line",91
+"1300",1419,"Midland Line",139
+"1301",1428,"Mizuma Line",91
+"1302",1429,"Semboku Rapid Railway Line",91
+"1303",1430,"Keihanna Line",91
+"1304",1431,"Shigi Line",91
+"1305",1432,"Yoshino Line",91
+"1306",1437,"Uji Line",91
+"1307",1436,"Katano Line",91
+"1308",1438,"Hankyu Kyoto Main Line",91
+"1309",1439,"Senri Line",91
+"1310",1440,"Arashiyama Line",91
+"1311",1441,"Hankyu Kobe Main Line",91
+"1312",1442,"Imazu Line",91
+"1313",1443,"Itami Line",91
+"1314",1444,"Koyo Line",91
+"1315",1445,"Hankyu Takarazuka Main Line",91
+"1316",1446,"Mino Line",91
+"1317",1447,"Hanshin Main Line",91
+"1318",1448,"Namba Line",91
+"1319",1449,"Mukogawa Line",91
+"1320",1450,"Sagano Line",91
+"1321",1424,"Biwako Line",91
+"1322",1451,"Lowell Line",139
+"1323",1425,"Fitchburg Line",139
+"1324",1452,"Karasuma Line",91
+"1325",1453,"Tozai Line",91
+"1326",1454,"Keishin Line",91
+"1327",1455,"Ishiyama Sakamoto Line",91
+"1328",1137,"Green Line/E",139
+"1329",1456,"Larraín",124
+"1330",1457,"Bellavista",124
+"1331",1458,"Panteón",124
+"1332",1460,"Esmeralda",124
+"1333",1459,"Ferroviario",124
+"1334",1461,"Arrayán",124
+"1335",1462,"La Cruz",124
+"1336",1463,"Santo Domingo",124
+"1337",1464,"Placeres",124
+"1338",1465,"Merced",124
+"1339",1466,"Ramaditas",124
+"1340",1467,"Polanco",124
+"1341",1468,"Delicias",124
+"1342",1469,"Perdices",124
+"1343",1470,"Las Cañas",124

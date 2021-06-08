@@ -1,0 +1,310 @@
+"","station_name","line_id","opening_stat"
+"1","Miguel Hernández",95,1994
+"2",NA,110,2003
+"3","Arganda del Rey",103,1999
+"4","Sol",95,1919
+"5","Sevilla",96,1924
+"6","Tribunal",95,1919
+"7","Atocha",95,1921
+"8","Chamberí",95,1919
+"9","Tirso de Molina",95,1921
+"10","Ríos Rosas",95,1919
+"11","Cuatro Caminos",95,1919
+"12","Pacífico",95,1923
+"13","Retiro",96,1924
+"14","Goya",96,1924
+"15","Ventas",96,1924
+"16","Santo Domingo",96,1925
+"17","San Bernardo",96,1925
+"18","Quevedo",96,1925
+"19","Noviciado",96,1925
+"20","Cuatro Caminos",96,1929
+"21","Iglesia",95,1919
+"22","Estrecho",95,1929
+"23","
+Lista",96,1932
+"24","Antón Martín",95,1921
+"25","
+Banco de España",96,1924
+"26","Ópera",96,1925
+"27","Atocha Renfe",95,1988
+"28","Príncipe de Vergara",96,1924
+"29","Menéndez Pelayo",95,1923
+"30","Tetuán",95,1929
+"31","Gran Vía",95,1919
+"32","Bilbao",95,1919
+"33","Puente de Vallecas",95,1923
+"34","Príncipe Pío",106,1925
+"35","Manuel Becerra",96,1924
+"36","Sol",96,1924
+"37","Canal",96,1998
+"38","Alvarado",95,1929
+"39","Diego de León",96,1932
+"40","Lavapiés",97,1936
+"41","Sol",97,1936
+"42","Embajadores",97,1936
+"43","Argüelles",98,1944
+"44","San Bernardo",98,1944
+"45","Bilbao",98,1944
+"46","Alonso Martínez",98,1944
+"47","Colón",98,1944
+"48","Goya",98,1944
+"49","Serrano",98,1944
+"50","Lista",98,1944
+"51","La Poveda",103,1999
+"52","Velázquez",98,1944
+"53","Rivas Vaciamadrid",103,1999
+"54","Rivas Urbanizaciones",103,1999
+"55","Plaza de España",97,1941
+"56","Mirasierra",103,2011
+"57","Palos de la Frontera",97,1949
+"58","Paco de Lucía",103,2015
+"59","Delicias",97,1951
+"60","Diego de León",98,1944
+"61","Tres Olivos",104,2007
+"62","Hospital Infanta Sofía",104,2007
+"63","Reyes Católicos",104,2007
+"64","Baunatal",104,2007
+"65","Manuel de Falla",104,2007
+"66","Urgel",99,1968
+"67","Ciudad Lineal",96,1964
+"68","Quintana",96,1964
+"69","Callao",97,1941
+"70","Oporto",99,1968
+"71","Pueblo Nuevo
+ 
+",96,1964
+"72","Ciudad Lineal",99,1970
+"73","Valdeacederas",95,1961
+"74","Argüelles",97,1941
+"75","Vista Alegre",99,1968
+"76","Plaza de Castilla",95,1961
+"77","Ventura Rodríguez",97,1941
+"78","Pueblo Nuevo",99,1970
+"79","Delicias",97,1949
+"80","Empalme",104,1961
+"81","Portazgo",95,1962
+"82","Nueva Numancia",95,1962
+"83","Gran Vía",99,1970
+"84",NA,98,1979
+"85","Príncipe Pío",104,1996
+"86","Campamento",104,1961
+"87","Lago",104,1961
+"88","Batán",104,1961
+"89","Chueca",99,1970
+"90","Casa de Campo",104,2002
+"91","Pacífico",100,1979
+"92",NA,98,1979
+"93","Aluche",99,2002
+"94","Alonso Martínez",99,1970
+"95","Plaza de España",104,1961
+"96","Eugenia de Montijo",99,1999
+"97",NA,98,1973
+"98","Empalme",99,2002
+"99","Ópera",99,1968
+"100","Rubén Darío",99,1970
+"101","Latina",99,1968
+"102","Moncloa",97,1963
+"103","Puerta de Toledo",99,1968
+"104",NA,98,1973
+"105","Acacias",99,1968
+"106","Oporto",100,1981
+"107","Pirámides",99,1968
+"108","Marques de Vadillo",99,1968
+"109",NA,98,1973
+"110","Núñez de Balboa",99,1970
+"111","El Carmen",96,1964
+"112","El Carmen",99,1970
+"113","Quintana",99,1970
+"114","Diego de León",99,1970
+"115","Carpetana",100,1983
+"116","El Capricho",99,2006
+"117","Ventas",99,1970
+"118","Alameda de Osuna",99,2006
+"119","Canillejas",99,1980
+"120","Torre Arias",99,1980
+"121","Suanzes",99,1980
+"122","Aluche",104,1961
+"123","Carabanchel",99,1968
+"124","Campamento",99,2002
+"125","Carabanchel",104,1961
+"126","Metropolitano",100,1987
+"127",NA,98,1979
+"128","Usera",100,1981
+"129","Conde de Casal",100,1979
+"130","Laguna",100,1983
+"131","Cuatro Caminos",100,1979
+"132","Rivas Futura",103,2008
+"133","Guzmán el Bueno",100,1987
+"134","Sainz de Baranda",100,1979
+"135","Plaza Elíptica",100,1981
+"136","Méndez Álvaro",100,1981
+"137","O'Donell",100,1979
+"138","Manuel Becerra",100,1979
+"139","Diego de León",100,1979
+"140","Legazpi",100,1981
+"141","Opañel",100,1981
+"142","Avenida de América",100,1979
+"143","República Argentina",100,1979
+"144",NA,101,1975
+"145","Ascao",101,1974
+"146","Callao",99,1968
+"147","San Blas",101,1974
+"148","Nuevos Ministerios",100,1979
+"149","Marqués de Valdavia",104,2007
+"150","La Moraleja",104,2007
+"151","Simancas",101,1974
+"152","Ronda de la Comunicación",104,2007
+"153","Las Tablas",104,2007
+"154","Jarama",101,2007
+"155","Coslada",101,2007
+"156","Pueblo Nuevo",101,1974
+"157","Ciudad Universitaria",100,1987
+"158","Alto de Extremadura",100,1995
+"159","Lucero",100,1995
+"160",NA,101,1975
+"161","Puerta del Ángel",100,1995
+"162",NA,101,1975
+"163","Principe Pío",100,1995
+"164","Argüelles",100,1995
+"165","Moncloa",100,1995
+"166","Las Musas",101,1974
+"167","García Noblejas",101,1974
+"168","Nuevos Ministerios",102,1982
+"169","Cuzco",102,1982
+"170","Avenida de la Ilustración",101,1999
+"171","Fuencarral",104,1998
+"172","Lima",102,1982
+"173","Fuencarral",102,1982
+"174","Tribunal",104,1981
+"175","Herrera Oria",103,1983
+"176","Barrio del Pilar",103,1983
+"177","Alonso Martínez",104,1981
+"178",NA,103,1980
+"179","Ventilla",103,1983
+"180",NA,103,1983
+"181","Lacoma",101,1999
+"182","Puerta del Sur",104,2003
+"183","Barajas",102,1999
+"184","Nuevos Ministerios",104,1998
+"185","Pitis",101,1999
+"186","Pío XII",103,1983
+"187","Canal",101,1999
+"188","Colombia",103,1983
+"189","Gregorio Marañón",104,1998
+"190","Concha Espina",103,1983
+"191","Joaquín Vislumbrales",104,2003
+"192","Cruz del Rayo",103,1983
+"193","Duque de Pastrana",103,1983
+"194","Aeropuerto T1-T2-T3",102,1998
+"195","Avenida de América",103,1983
+"196","Avenida de América",102,1986
+"197","Aviación Española",104,2007
+"198","Campo de las Naciones",102,1998
+"199","Islas Filipinas",101,1999
+"200","Guzmán el Bueno",101,1999
+"201","Colonia Jardín",104,2002
+"202","Gregorio Marañón",101,1998
+"203","Mar de Cristal",102,1998
+"204","Francos Rodríguez",101,1999
+"205","Alonso Cano",101,1998
+"206","Santiago Bernabéu",104,1998
+"207","Valdezarza",101,1999
+"208","Nuevos Ministerios",102,2002
+"209","Chamartín",104,1998
+"210","Canillas",98,1998
+"211","Peña
+ Grande
+",101,1999
+"212","Colombia",102,2002
+"213","Antonio Mahado",101,1999
+"214","Chamartín",102,1982
+"215","Mar de Cristal",98,1998
+"216","San Lorenzo",98,1998
+"217","Cuzco",104,1998
+"218","Parque de Santa María",98,1998
+"219","Pinar de Rey",102,2007
+"220","Aeropuerto T4",102,2007
+"221","Plaza de Castilla",104,1998
+"222","Plaza de Castilla",102,1982
+"223","Begoña",104,1998
+"224","Begoña",102,1982
+"225","Cuatro Vientos",104,2003
+"226","1977",103,1980
+"227","Vinateros",103,1980
+"228","Artilleros",103,1980
+"229","Pavones",103,1980
+"230","Príncipe de Vergara",103,1986
+"231","Ibiza",103,1986
+"232","Núñez de Balboa",103,1986
+"233","Buenos Aires",95,1994
+"234","Alto del Arenal",95,1994
+"235","Congosto",95,1999
+"236","Villa de Vallecas",95,1999
+"237","La Granja",104,2007
+"238","San Cipriano",103,1999
+"239","Montecarmelo",104,2007
+"240","Plaza Elíptica",105,1998
+"241","San Fernando",101,2007
+"242","Parque Oeste",110,2003
+"243","Barrio del Puerto",101,2007
+"244","Móstoles",110,2003
+"245","Hospital de Móstoles",110,2003
+"246","Loranca",110,2003
+"247","Sierra de Guadalupe",95,1999
+"248","Getafe Central",110,2003
+"249","Valdebernardo",103,1999
+"250","Hospital del Henares",101,2008
+"251","Puerta de Arganda",103,1999
+"252","Juan de la Cierva",110,2003
+"253","Vicálvaro",103,1999
+"254","Henares",101,2007
+"255","El Casar",110,2003
+"256","La Rambla",101,2007
+"257","Pan Bendito",105,1998
+"258","Los Espartales",110,2003
+"259","Abrantes",105,1998
+"260","Estadio Olímpico",101,2007
+"261","Parque Lisboa",110,2003
+"262","El Bercial",110,2003
+"263","Alcorcón Central",110,2003
+"264","El Carrascal",110,2003
+"265","Universidad Rey Juan Carlos",110,2003
+"266","Pradillo",110,2003
+"267","Juan Besteiro",110,2003
+"268","Manuela Malasaña",110,2003
+"269","Casa del Reloj",110,2003
+"270","Hospital de Fuenlabrada",110,2003
+"271","Parque Europa",110,2003
+"272","Hospital Severo Ochoa",110,2003
+"273","Parque de los Estados",110,2003
+"274","Leganés Central",110,2003
+"275","Arroyo Culebro",110,2003
+"276","Conservatorio",110,2003
+"277","San Nicasio",110,2003
+"278","Alonso de Mendoza",110,2003
+"279","Pinar de Chamartín",95,2007
+"280","Bambú",95,2007
+"281","Chamartín",95,2007
+"282","Almendrales",97,2007
+"283","Las Rosas",96,2011
+"284","Hospital 12 de Octubre",97,2007
+"285","Pinar de Chamartín",98,2007
+"286","Valdecarros",95,2007
+"287","Manoteras",98,2007
+"288","San Fermín-Orcasur",97,2007
+"289","Hortaleza",98,2007
+"290","La Peseta",105,2006
+"291","San Francisco",105,2006
+"292","Ciudad de Los Angeles",97,2007
+"293","Carabanchel Alto",105,2006
+"294","La Fortuna",105,2010
+"295","Villaverde Cruce",97,2007
+"296","Las Suertes",95,2007
+"297","San Cristobal",97,2007
+"298","Villaverde Alto",97,2007
+"299","La Gavia",95,2007
+"300","Avenida de Guadalajara",96,2011
+"301","La Elipa",96,2007
+"302","La Almudena",96,2011
+"303","Alsacia",96,2011
